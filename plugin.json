@@ -1,11 +1,11 @@
 {
-  "name": "Example Plugin",
+  "name": "Example Plugin for Frend",
   "author": "John Doe",
   "flags": ["debug", "_root"],
   "api_version": 1,
   "publish": {
     "tags": ["template", "root"],
-    "description": "Decky example plugin.",
+    "description": "Decky example plugin. For Frend",
     "image": "https://opengraph.githubassets.com/1/SteamDeckHomebrew/PluginLoader"
   }
 }
